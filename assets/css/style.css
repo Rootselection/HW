@@ -513,7 +513,7 @@ p {
     display: block;
     background-color: #fff;
     position: absolute;
-    right: -8px;
+    right: 0;
     opacity: 0;
     padding: 0;
     -webkit-transform: translateX(200%);
@@ -530,7 +530,7 @@ p {
 }
 
 .header__nav-input {
-    padding: 20px 13px;
+    padding: 20px 0;
     cursor: pointer;
     transition: all .2s;
     border: none;
