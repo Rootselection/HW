@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Acrom";
+    src: url("/assets/fonts/Acrom.woff") format("woff");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "FuturaMediumC";
+  src: url("/assets/fonts/FuturaMediumC.woff") format("woff");
+  font-weight: 500;
+}
